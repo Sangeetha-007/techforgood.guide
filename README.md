@@ -10,6 +10,7 @@ A guide to using technology for social good.
     - Risk to users' privacy
     - Technological unemployment (due to piracy or automation)
     - Facilitates online harassment
+    - Morality/ Ethical issues
 * Organizations using technology for social good
   - [Devs Without Borders](http://devswithoutborders.org/)
   - [Elixir Labs](http://www.elixirlabs.org/)
