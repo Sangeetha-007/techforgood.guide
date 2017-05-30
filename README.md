@@ -5,6 +5,11 @@ A guide to using technology for social good.
 
 * Understanding social impacts of technology
 * Designing technology to solve social problems
+* Understanding and mitigating social costs of technology
+  - Examples of social costs:
+    - Risk to users' privacy
+    - Technological unemployment (due to piracy or automation)
+    - Facilitates online harassment
 * Organizations using technology for social good
   - [Devs Without Borders](http://devswithoutborders.org/)
   - [Elixir Labs](http://www.elixirlabs.org/)
